@@ -1,11 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Um entusiasta totalmente apaixonado pelos melhores padrões e tecnologias para desenvolvimento de software web e mobile.
+  Um entusiasta totalmente apaixonado pelos melhores padrões e tecnologias para desenvolvimento de software web e mobile.<br/>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>PHP, JavaScript, Elixir e C#</strong>
+</p>
+
+<p align="left">
+  🦄 Frameworks: <strong>Laravel, CodeIgniter, Phoenix</strong>
 </p>
 
 <p align="left">
