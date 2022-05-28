@@ -1,14 +1,20 @@
-### KLEBER BERNARDO | SENIOR FULL STACK ENGINEER 🖥️
+### Kleber Bernardo | Senior Full Stack Engineer & Tech Lead 🖥️
 
+- 😄 Entusiasta quando o assunto é desenvolvimento web e mobile ou quando estamos falando de gestão de equipes, projetos e produtos.
 
-- 🔭 Atualmente trabalho com PHP, NodeJS, TypeScript, 
-- 🌱 I’m currently learning NodeJS, TypeScript and Flutter
+- Front-end: ReactJs, NextJs, VueJs, SvelteJs, AngularJs, Apollo Client, Tailwind CSS, Chakra UI, SASS, Bulma e Bootstrap
+- Back-end: Laravel, Codeignator, Yii, GraphQL, Phoenix, Express, NestJs e NodeJs
+- Testes: Jest, PHP Unit e Cypress
+- Mobile: React Native e Ionic
+- Desktop: ElectronJs
+- Banco de dados: MySQL, PostgreSQL, Firebase e MongoDB
+- ORM: Doctrine, Prisma e TypeORM
+- Mensageria: Rabbitmq
+- CMS: WordPress/Elementor Pro
 - 👯 I’m looking to collaborate on greate open source projects
-- 🤔 You can send me DM at twitter [@nunomazer](https://twitter.com/nunomazer), if you  are looking for help with coding and mentoring
 - 💬 Ask me about anything about software development career
 - 📫 How to reach me: 
    - [Linkedin](https://www.linkedin.com/in/kleberbernardo/)
    - [Instagram](https://www.instagram.com/kleber.sbernardo/)
 - 🧓 Pronouns: He/Him
-- 😄 Fun fact: I love to work using "chinelos"
 
