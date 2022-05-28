@@ -1,11 +1,14 @@
+### KLEBER BERNARDO | SENIOR FULL STACK ENGINEER 🖥️
 
-## 🧮 📊 Github Stats
-<table>
-    <tr>
-      <td>
-      <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=kleberbernardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0D1117" alt="ABSphreak's Github Stats">
-      </td>
-        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberbernardo&layout=compact&langs_count20=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0D1117"/></td> 
-    </tr>   
-</table>
+
+- 🔭 Atualmente trabalho com PHP, NodeJS, TypeScript, 
+- 🌱 I’m currently learning NodeJS, TypeScript and Flutter
+- 👯 I’m looking to collaborate on greate open source projects
+- 🤔 You can send me DM at twitter [@nunomazer](https://twitter.com/nunomazer), if you  are looking for help with coding and mentoring
+- 💬 Ask me about anything about software development career
+- 📫 How to reach me: 
+   - [Linkedin](https://www.linkedin.com/in/kleberbernardo/)
+   - [Instagram](https://www.instagram.com/kleber.sbernardo/)
+- 🧓 Pronouns: He/Him
+- 😄 Fun fact: I love to work using "chinelos"
 
