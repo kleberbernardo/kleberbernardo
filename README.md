@@ -1,7 +1,6 @@
 ### Kleber Bernardo | Senior Full Stack Engineer & Tech Lead 🖥️
 
 - :wave: Entusiasta quando o assunto é desenvolvimento web e mobile ou quando estamos falando de gestão de equipes, projetos e produtos.
-
 - :white_check_mark: Front-end: ReactJs, NextJs, VueJs, SvelteJs, AngularJs, Apollo Client, Tailwind CSS, Chakra UI, SASS, Bulma e Bootstrap
 - :white_check_mark: Back-end: Laravel, Codeignator, Yii, GraphQL, Phoenix, Express, NestJs e NodeJs
 - :white_check_mark: Testes: Jest, PHP Unit e Cypress
